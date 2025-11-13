@@ -145,8 +145,8 @@ const AboutResume = () => {
                 </a>
               </div>
               <div>
-                <p className="text-sm text-muted-foreground mb-1">Location</p>
-                <p>179, Hansvihar soc, Yoginchowk, Surat</p>
+                <p className="text-sm text-muted-foreground">Location</p>
+                <p  className="text-accent hover:underline break-all">189 Tulsishyam Society, Mahaveer Circle, Nana Varachha, Surat, Gujarat, India</p>
               </div>
             </div>
           </section>

@@ -7,13 +7,13 @@ const Footer = () => {
             © 2025 Flutter Developer Portfolio. All rights reserved.
           </p>
           <div className="flex gap-6">
-            <a href="mailto:your.email@example.com" className="text-sm hover:text-accent transition-colors">
+            <a href="mailto:italiyaharshil98@gmail.com" className="text-sm hover:text-accent transition-colors">
               Email
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-accent transition-colors">
+            <a href="https://github.com/HARSHILITALIYA16" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-accent transition-colors">
               GitHub
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-accent transition-colors">
+            <a href="https://www.linkedin.com/in/harshil-italiya-973a79250/" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-accent transition-colors">
               LinkedIn
             </a>
           </div>

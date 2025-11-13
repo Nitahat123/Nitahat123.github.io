@@ -8,7 +8,7 @@ import app6 from "@/assets/odekaapp.png";
 import app7 from "@/assets/khatabillingadmin.png";
 import app8 from "@/assets/youmedating.png";
 import app9 from "@/assets/pikazoapp.png";
-import app10 from "@/assets/pikazo resturant admin.png";
+import app10 from "@/assets/pikazo_resturant_admin.png";
 
 interface App {
   id: number;
